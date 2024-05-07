@@ -1121,3 +1121,11 @@ blockquote {
 .name{
     text-align: center;
 }
+
+.pyhack_poster{
+    max-width: 100%;
+    height: auto;
+   
+    
+}
+
