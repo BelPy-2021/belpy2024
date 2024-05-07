@@ -1115,3 +1115,9 @@ blockquote {
         padding: 3px 0;
     }
 }
+
+
+
+.name{
+    text-align: center;
+}
