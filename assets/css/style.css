@@ -1140,6 +1140,14 @@ blockquote {
 }
 
 .team_img img{
-    width: 400px;
+    width: 350px;
     height: 250px;
+}
+
+@media (max-width:575px){
+    .team_img{
+        width: auto;
+        height: auto;
+        padding: 0 40px;
+    }
 }
