@@ -1124,14 +1124,14 @@ blockquote {
 
 .pyhack_poster{
     width: 40%;
-    height: auto;
     margin-left: 30%;
 }
 
 @media (max-width:575px){
     .pyhack_poster{
-        max-width: 100%;
-        height: auto; 
+        width: 100% !important;
+        height: auto !important; 
+        margin-left: 0 !important;
     }
 }
 
