@@ -1148,6 +1148,11 @@ blockquote {
     .team_img{
         width: auto;
         height: auto;
-        padding: 0 40px;
+        margin: 0 40px;
     }
+    
+}
+
+.speaker_div{
+    margin: 0 40px;
 }
