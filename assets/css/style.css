@@ -1152,3 +1152,7 @@ blockquote {
     }
     
 }
+
+.speaker_div{
+    margin: 0 40px;
+}
